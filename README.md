@@ -2,7 +2,7 @@
 
 <h2>1. Terms</h2>
 
-<p>By accessing this app, accessible from https://yourdomain.com/fasting-termsofservice/, you are agreeing to be bound by these App Terms and Conditions of Use and agree that you are responsible for compliance with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing or using this app. The materials contained in this app are protected by applicable copyright and trademark law.</p>
+<p>By accessing this app you are agreeing to be bound by these App Terms and Conditions of Use and agree that you are responsible for compliance with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing or using this app. The materials contained in this app are protected by applicable copyright and trademark law.</p>
 
 <h2>2. Description of Services</h2>
 
