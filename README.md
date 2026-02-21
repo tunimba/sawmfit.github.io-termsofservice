@@ -1,79 +1,127 @@
-<h1>App Terms and Conditions of Use</h1>
+<h1>Terms of Use – MuslimCal: Muslim Calorie Fasting Tracker</h1>
 
-<h2>1. Terms</h2>
+<p>Effective Date: 2026/02/21</p>
 
-<p>By accessing this app you are agreeing to be bound by these App Terms and Conditions of Use and agree that you are responsible for compliance with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing or using this app. The materials contained in this app are protected by applicable copyright and trademark law.</p>
+<h2>1. Acceptance of Terms</h2>
+
+<p>By downloading, installing, or using the MuslimCal mobile application ("MuslimCal", "we", "us", or "our"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, you must not use the Application.</p>
+
+<p>You are responsible for ensuring that your use of the Application complies with all applicable local laws and regulations.</p>
 
 <h2>2. Description of Services</h2>
 
-<p>MuslimCal provides tools and informational content designed for Muslim users, including but not limited to:</p>
+<p>MuslimCal provides personal wellness and lifestyle tools designed for Muslim users, including but not limited to:</p>
 
 <ul>
     <li>Fasting tracking and Ramadan progress monitoring;</li>
-    <li>Water intake tracking;</li>
     <li>Calorie tracking and nutrition logging;</li>
-    <li>Halal verification assistance;</li>
-    <li>Halal recipe and educational content.</li>
+    <li>Hydration tracking;</li>
+    <li>Food image analysis and nutritional estimation;</li>
+    <li>Qibla direction and Azkar tools;</li>
+    <li>Subscription-based premium features.</li>
 </ul>
 
-<p>All services provided within the app are for personal, informational, and non-commercial use only.</p>
+<p>The Application is intended for personal, non-commercial use only.</p>
 
-<h2>3. No Religious or Medical Advice</h2>
+<h2>3. No Medical or Religious Advice</h2>
 
-<p>The content provided in MuslimCal is for informational and educational purposes only. The app does not provide religious rulings (fatwas), legal advice, or medical diagnosis and treatment.</p>
+<p>MuslimCal provides informational and tracking tools only. The Application does not provide medical advice, diagnosis, treatment, or religious rulings (fatwas).</p>
 
-<p>Users should consult qualified religious scholars for religious matters and licensed healthcare professionals before making fasting, dietary, hydration, or nutrition-related decisions.</p>
+<p>You should consult a licensed healthcare professional before making significant dietary, fasting, or hydration decisions. For religious matters, you should consult qualified religious scholars.</p>
 
-<h2>4. Use License</h2>
+<p>All health, nutrition, and fasting decisions made using this Application are solely your responsibility.</p>
 
-<p>Permission is granted to temporarily download one copy of the materials on MuslimCal's app for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:</p>
+<h2>4. AI & Food Analysis Disclaimer</h2>
+
+<p>The food scanner and image analysis features use automated AI-based systems to estimate calorie and nutrition information.</p>
 
 <ul>
-    <li>modify or copy the materials;</li>
-    <li>use the materials for any commercial purpose or public display;</li>
-    <li>attempt to reverse engineer any software contained in MuslimCal's app;</li>
-    <li>remove any copyright or proprietary notations from the materials; or</li>
-    <li>transfer the materials to another person or mirror the materials on any other server.</li>
+    <li>Results are generated automatically and may not be 100% accurate.</li>
+    <li>The Application does not guarantee nutritional precision.</li>
+    <li>The Application does not provide halal certification or legally binding verification.</li>
 </ul>
 
-<p>This will allow MuslimCal to terminate access upon violations of any of these restrictions. Upon termination, your viewing rights will also be terminated and you should destroy any downloaded materials in your possession whether in printed or electronic format.</p>
+<p>You are responsible for independently verifying food ingredients, nutritional values, and halal compliance.</p>
 
-<h2>5. Halal Verification Disclaimer</h2>
+<h2>5. Subscriptions & Payments</h2>
 
-<p>MuslimCal may provide halal verification assistance based on available databases, user input, or third-party information. However, MuslimCal does not guarantee the accuracy, completeness, or religious validity of such information.</p>
+<p>Some features of MuslimCal may require a paid subscription. All payments are processed securely through the Apple App Store.</p>
 
-<p>Users are responsible for independently verifying halal compliance according to their own religious standards and local certification authorities.</p>
+<ul>
+    <li>Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period.</li>
+    <li>You may manage or cancel subscriptions in your Apple ID account settings.</li>
+    <li>We do not store or process payment card details directly.</li>
+</ul>
 
-<h2>6. Health & Nutrition Disclaimer</h2>
+<p>RevenueCat may be used to validate and manage subscription status.</p>
 
-<p>Calorie tracking, fasting tracking, and water tracking features are provided for general wellness purposes only. MuslimCal does not guarantee any health outcomes and is not a substitute for professional medical advice.</p>
+<h2>6. License Grant</h2>
 
-<p>You assume full responsibility for any health decisions made using this app.</p>
+<p>We grant you a limited, non-exclusive, non-transferable, revocable license to use MuslimCal for personal, non-commercial purposes in accordance with these Terms.</p>
 
-<h2>7. Disclaimer</h2>
+<p>You may not:</p>
 
-<p>All the materials on MuslimCal's app are provided "as is". MuslimCal makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties. Furthermore, MuslimCal does not make any representations concerning the accuracy or reliability of the use of the materials on its app or otherwise relating to such materials or any sites linked to this app.</p>
+<ul>
+    <li>Reverse engineer, decompile, or attempt to extract the source code of the Application;</li>
+    <li>Modify, copy, or redistribute any part of the Application;</li>
+    <li>Use the Application for commercial exploitation;</li>
+    <li>Remove copyright, trademark, or proprietary notices.</li>
+</ul>
 
-<h2>8. Limitations</h2>
+<h2>7. User Responsibilities</h2>
 
-<p>MuslimCal or its suppliers will not be held accountable for any damages that arise from the use or inability to use the materials on MuslimCal's app, even if MuslimCal or an authorized representative has been notified, orally or in writing, of the possibility of such damage. Some jurisdictions do not allow limitations on implied warranties or limitations of liability for incidental damages, so these limitations may not apply to you.</p>
+<p>You agree to:</p>
 
-<h2>9. Revisions and Errata</h2>
+<ul>
+    <li>Provide accurate information when entering fasting, calorie, or weight data;</li>
+    <li>Use the Application lawfully and respectfully;</li>
+    <li>Not misuse the food scanner or attempt to overload AI processing systems;</li>
+    <li>Not attempt unauthorized access to the Application or related systems.</li>
+</ul>
 
-<p>The materials appearing on MuslimCal's app may include technical, typographical, or content-related errors. MuslimCal does not warrant that any of the materials in this app are accurate, complete, or current. MuslimCal may make changes to the materials contained in its app at any time without notice. MuslimCal does not make any commitment to update the materials.</p>
+<h2>8. Disclaimer of Warranties</h2>
 
-<h2>10. Links</h2>
+<p>The Application is provided "as is" and "as available" without warranties of any kind, either express or implied.</p>
 
-<p>MuslimCal has not reviewed all of the sites linked to its app and is not responsible for the contents of any such linked site. The presence of any link does not imply endorsement by MuslimCal of the site. The use of any linked website is at the user's own risk.</p>
+<p>We do not guarantee that:</p>
 
-<h2>11. Site Terms of Use Modifications</h2>
+<ul>
+    <li>The Application will be uninterrupted or error-free;</li>
+    <li>All nutritional calculations will be fully accurate;</li>
+    <li>The Application will meet your personal expectations or health goals.</li>
+</ul>
 
-<p>MuslimCal may revise these Terms of Use for its app at any time without prior notice. By using this app, you agree to be bound by the current version of these Terms and Conditions of Use.</p>
+<h2>9. Limitation of Liability</h2>
 
-<h2>12. Your Privacy</h2>
+<p>To the maximum extent permitted by law, MuslimCal and its suppliers shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from:</p>
 
-<p>Please read our Privacy Policy.</p>
+<ul>
+    <li>Your use or inability to use the Application;</li>
+    <li>Health or dietary decisions made based on app information;</li>
+    <li>Reliance on AI-generated food analysis;</li>
+    <li>Subscription or billing disputes handled by Apple.</li>
+</ul>
 
-<h2>13. Governing Law</h2>
+<p>In no event shall our total liability exceed the amount you paid for the Application in the previous 12 months.</p>
 
-<p>Any claim related to MuslimCal's app shall be governed by the laws of Turkey, without regard to its conflict of law provisions.</p>
+<h2>10. Termination</h2>
+
+<p>We reserve the right to suspend or terminate access to the Application if you violate these Terms.</p>
+
+<p>Upon termination, your license to use the Application immediately ceases.</p>
+
+<h2>11. Third-Party Services</h2>
+
+<p>The Application may rely on third-party services such as Apple, Firebase, AI processing providers, and RevenueCat. We are not responsible for the independent practices of these third parties.</p>
+
+<h2>12. Privacy</h2>
+
+<p>Your use of the Application is also governed by our Privacy Policy.</p>
+
+<h2>13. Changes to Terms</h2>
+
+<p>We may update these Terms at any time. Continued use of the Application after changes constitutes acceptance of the revised Terms.</p>
+
+<h2>14. Governing Law</h2>
+
+<p>These Terms shall be governed by the laws of the Republic of Turkey, without regard to conflict of law principles.</p>
